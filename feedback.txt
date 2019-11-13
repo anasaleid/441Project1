@@ -1,0 +1,10 @@
+Hi Anas,
+this is a well done homework. You used FunSuite for testing, well done!. Your code is well-commented
+and you provided enough info in README. You used the for loop with mutable
+variables even though you didn't have to - please think about how you can
+modify your code to avoid doing it. It would be nice if you analuzed the results of your simulations. Yet, the quality of
+the basic implementation is very good - you have the full grade, 5%.
+
+
+Why do you call twice CloudSim.stopSimulation() in CloudSim3?
+
